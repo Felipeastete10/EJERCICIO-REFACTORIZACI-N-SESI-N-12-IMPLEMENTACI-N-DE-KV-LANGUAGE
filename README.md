@@ -27,5 +27,4 @@ Proyecto desarrollado para la **Sesión 12: Implementación de KV Language**. Se
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-   cd TU_REPOSITORIO
+   git clone https://github.com/Felipeastete10/EJERCICIO-REFACTORIZACI-N-SESI-N-12-IMPLEMENTACI-N-DE-KV-LANGUAGE.git
